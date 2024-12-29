@@ -1,17 +1,17 @@
 # honoursProject
 This repository contains the code for my Honours project, where I developed a bioinformatics pipeline. The pipeline automates the process of aligning sequencing reads to a reference genome, identifying genetic variants, and generating a VCF file for downstream analysis.
 
-Alignment / Variant Calling Pipeline
+Alignment / Variant Calling Pipeline:
 A Nextflow pipeline for variant calling, from FASTQ alignment through VCF file production using BWA-MEM, SAMtools, and GATK.
 
-Overview
+Overview:
 This pipeline performs the following operations:
     Read alignment using BWA-MEM
     SAM to BAM conversion and sorting using SAMtools
     Variant calling using GATK
     VCF file generation as final output
 
-Prerequisites
+Prerequisites:
     Nextflow
     BWA
     SAMtools
