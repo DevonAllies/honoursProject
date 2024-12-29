@@ -1,0 +1,102 @@
+references:
+  - type: software
+    authors:
+      - family-names: "Di Tommaso"
+        given-names: "Paolo"
+      - family-names: "Chatzou"
+        given-names: "Maria"
+      - family-names: "Floden"
+        given-names: "Evan W."
+      - family-names: "Barja"
+        given-names: "Pablo Prieto"
+      - family-names: "Palumbo"
+        given-names: "Emilio"
+      - family-names: "Notredame"
+        given-names: "Cedric"
+    title: "Nextflow enables reproducible computational workflows"
+    year: 2017
+    journal: "Nature Biotechnology"
+    volume: 35
+    issue: 4
+    start: 316
+    end: 319
+    doi: "10.1038/nbt.3820"
+    
+  - type: software
+    authors:
+      - family-names: "Danecek"
+        given-names: "Petr"
+      - family-names: "Bonfield"
+        given-names: "James K."
+      - family-names: "Liddle"
+        given-names: "Jennifer"
+      - family-names: "Marshall"
+        given-names: "John"
+      - family-names: "Ohan"
+        given-names: "Valeriu"
+      - family-names: "Pollard"
+        given-names: "Martin O."
+      - family-names: "Whitwham"
+        given-names: "Andrew"
+      - family-names: "Keane"
+        given-names: "Thomas"
+      - family-names: "McCarthy"
+        given-names: "Shane A."
+      - family-names: "Davies"
+        given-names: "Robert M."
+      - family-names: "Li"
+        given-names: "Heng"
+    title: "Twelve years of SAMtools and BCFtools"
+    year: 2021
+    journal: "GigaScience"
+    volume: 10
+    issue: 2
+    doi: "10.1093/gigascience/giab008"
+    
+  - type: software
+    authors:
+      - family-names: "Li"
+        given-names: "Heng"
+      - family-names: "Durbin"
+        given-names: "Richard"
+    title: "Fast and accurate short read alignment with Burrows-Wheeler transform"
+    year: 2009
+    journal: "Bioinformatics"
+    volume: 25
+    issue: 14
+    start: 1754
+    end: 1760
+    doi: "10.1093/bioinformatics/btp324"
+    
+  - type: software
+    authors:
+      - family-names: "McKenna"
+        given-names: "Aaron"
+      - family-names: "Hanna"
+        given-names: "Matthew"
+      - family-names: "Banks"
+        given-names: "Eric"
+      - family-names: "Sivachenko"
+        given-names: "Andrey"
+      - family-names: "Cibulskis"
+        given-names: "Kristian"
+      - family-names: "Kernytsky"
+        given-names: "Andrew"
+      - family-names: "Garimella"
+        given-names: "Kiran"
+      - family-names: "Altshuler"
+        given-names: "David"
+      - family-names: "Gabriel"
+        given-names: "Stacey"
+      - family-names: "Daly"
+        given-names: "Mark"
+      - family-names: "DePristo"
+        given-names: "Mark A."
+    title: "The Genome Analysis Toolkit: A MapReduce framework for analyzing next-generation DNA sequencing data"
+    year: 2010
+    journal: "Genome Research"
+    volume: 20
+    issue: 9
+    start: 1297
+    end: 1303
+    doi: "10.1101/gr.107524.110"
