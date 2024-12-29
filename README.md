@@ -32,7 +32,17 @@ Run the pipeline:
 
     nextflow run script.nf -c nextflow.config
 
-
+Testing:
+The pipeline includes stub testing functionality:
+    Stubs simulate process execution without running tools
+    Useful for:
+        Testing pipeline logic
+        Validating workflow structure
+        Checking input/output connections
+        Quick pipeline validation
+        
+    nextflow run script.nf -stub-run
+    
   Configuration:
         Edit nextflow.config to set:
             Reference genome path
