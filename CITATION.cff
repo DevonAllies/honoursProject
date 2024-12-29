@@ -117,3 +117,57 @@ references:
     start: 1297
     end: 1303
     doi: "10.1101/gr.107524.110"
+
+  - type: article
+    authors:
+      - family-names: International HapMap Consortium
+    title: "A haplotype map of the human genome"
+    journal: Nature
+    volume: 437
+    year: 2005
+    pages: "1229-1320"
+    doi: 10.1038/nature04226
+
+  - type: dataset
+    authors:
+      - family-names: Papitashvili
+        given-names: Natalia E.
+      - family-names: King
+        given-names: Joseph H.
+    title: "OMNI Hourly Data"
+    year: 2020
+    url: https://omniweb.gsfc.nasa.gov/
+    doi: 10.48322/1shr-ht18
+
+  - type: article
+    authors:
+      - family-names: Sherry
+        given-names: S. T.
+      - family-names: Ward
+        given-names: M. H.
+      - family-names: Kholodov
+        given-names: M.
+      - family-names: Baker
+        given-names: J.
+      - family-names: Phan
+        given-names: L.
+      - family-names: Smigielski
+        given-names: E. M.
+      - family-names: Sirotkin
+        given-names: K.
+    title: "dbSNP: the NCBI database of genetic variation"
+    journal: Nucleic Acids Research
+    volume: 29
+    issue: 1
+    year: 2001
+    pages: "308-311"
+    doi: 10.1093/nar/29.1.308
+
+  - type: book
+    authors:
+      - family-names: Mills
+        given-names: Charles W.
+    title: "The Racial Contract"
+    publisher: Cornell University Press
+    year: 1997
+    location: Ithaca, NY
